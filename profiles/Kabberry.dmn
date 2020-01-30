@@ -1,0 +1,8 @@
+COIN_NAME="Kabberry"
+COIN_PATH="/usr/bin/"
+COIN_DAEMON="kabberryd"
+COIN_CLI="kabberry-cli"
+COIN_FOLDER="/root/.kabberry"
+COIN_CONFIG="kabberry.conf"
+RPC_PORT=34126
+COIN_SERVICE="kabberry.service"
