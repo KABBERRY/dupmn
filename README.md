@@ -84,10 +84,10 @@ Every instance has it own private key, it will be shown after installing the new
 
 Now you can manage every instance like this:
 ```
-kabberry-cli-1 masternode status
+kabberry-cli-1 getmasternodestatus
 kabberry-cli-2 getblockcount
 kabberry-cli-3 getinfo
-kabberry-cli-all masternode status
+kabberry-cli-all getmasternodestatus
 ```
 There's also a `kabberry-cli-0`, but is just a reference to the 'main node', not a created one with dupmn.
 
